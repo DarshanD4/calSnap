@@ -1,0 +1,32 @@
+# Flutter
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.dart_tool/
+
+# VS Code
+.vscode/
+
+# iOS
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcodeproj/xcuserdata/
+
+# Android
+android/.gradle/
+android/app/build/
+android/gradle/
+android/local.properties
+
+# Python backend
+backend/__pycache__/
+backend/*.pyc
+backend/env/
+backend/.venv/
+backend/uploads/
+backend/data/*.json   # optional, remove if you want data in github
+
